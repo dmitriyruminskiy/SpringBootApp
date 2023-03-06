@@ -2,8 +2,8 @@ package PP_3_1_2_springboot.SpringBootApp.controller;
 
 
 import PP_3_1_2_springboot.SpringBootApp.entities.User;
-import PP_3_1_2_springboot.SpringBootApp.repositories.UsersRepository;
 import PP_3_1_2_springboot.SpringBootApp.services.UsersService;
+import PP_3_1_2_springboot.SpringBootApp.services.UsersServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
